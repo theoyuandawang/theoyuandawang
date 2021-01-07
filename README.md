@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### I am theoyuandawang,Elementary school students in cyber security
+### I’m currently learning Binary security
+### Let's GO,rush B!!!!
 <!--
 **theoyuandawang/theoyuandawang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
